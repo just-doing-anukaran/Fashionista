@@ -1,0 +1,16 @@
+Hey!
+
+This is a design and front end side of a hypothetical e-commerce website named:
+Fashionista.
+
+The theme of this website are the exotic birds that are unique and fashionable 
+and rare, that stand out in this banal world. This could be easily explained by the vector images of birds that I have created using Adobe Illustrator. 
+
+To give the landing page a dynamic look, I have created three product slideshow 
+videos using Adobe After Effects with vibrant color gradings.
+
+The design's beauty is at its zenith on 1920 by 1080 resolution. 
+
+Thank you.
+Anukar.
+
